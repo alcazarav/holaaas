@@ -1,7 +1,6 @@
 # holaaas
-<p
+
 ABIGAIL ALCAZAR
-<p 
   
 Estudiante de ingenieria biomédica interesada en ingenieria de tejidos y señales e imágenes.
 Rol: manufactura digital
